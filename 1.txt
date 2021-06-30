@@ -1,0 +1,13 @@
+
+void main() {
+  var nome = "Felipe";
+  var sobrenome = "Dias";
+  var idade = 20;
+  var endereco = "Antonio prado, 298";
+  
+  
+  print("Nome: $nome");
+  print("Sobrenome: $sobrenome");
+  print("idade:  $idade");
+  print("endereco: $endereco");
+}
